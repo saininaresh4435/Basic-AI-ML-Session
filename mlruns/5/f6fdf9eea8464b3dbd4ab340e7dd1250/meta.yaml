@@ -1,0 +1,15 @@
+artifact_uri: mlruns/5/f6fdf9eea8464b3dbd4ab340e7dd1250/artifacts
+end_time: 1642921965232
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: deleted
+name: ''
+run_id: f6fdf9eea8464b3dbd4ab340e7dd1250
+run_uuid: f6fdf9eea8464b3dbd4ab340e7dd1250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1642921963170
+status: 3
+tags: []
+user_id: naresh

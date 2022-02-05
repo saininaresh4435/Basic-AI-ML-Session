@@ -1,0 +1,15 @@
+artifact_uri: mlruns/2/02117f777a714cb9afd8c73c10d4cadb/artifacts
+end_time: 1642920502408
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: 02117f777a714cb9afd8c73c10d4cadb
+run_uuid: 02117f777a714cb9afd8c73c10d4cadb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1642920502384
+status: 4
+tags: []
+user_id: naresh
